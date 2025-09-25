@@ -11,3 +11,4 @@ D → nota igual ou maior a 5 e menor que 6,5;
 E → menor que 5;
 Ao final da classificação, mostre se o usuário foi aprovado (A, B ou C) ou reprovado
 (D ou E).
+<img width="1323" height="507" alt="image" src="https://github.com/user-attachments/assets/a275db44-8c4f-4dc0-8267-7a015f524328" />
